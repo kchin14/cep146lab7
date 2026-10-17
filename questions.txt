@@ -1,0 +1,13 @@
+
+1. Same lines were changed.
+2. Organize the data differently.
+3. Always git pull before attempting to push.
+4. Deciding what changes to keep.
+5. Git diff can tell you what differences are there within the code.
+
+1. git bisect good once, git bisect bad twice.
+2. 7 checks.
+3. much quicker and efficient way of searching for the commit.
+4. when projects get to be very large scale with many commits.
+5. need to know the issue you are looking for first, starting from there
+you can continue to check until you find the commit without the issue
